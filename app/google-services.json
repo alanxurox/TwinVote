@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220136949675",
+    "firebase_url": "https://twinvote.firebaseio.com",
+    "project_id": "twinvote",
+    "storage_bucket": "twinvote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220136949675:android:aa73f5fa6e88b411d474ee",
+        "android_client_info": {
+          "package_name": "org.trinitypawling.twinvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220136949675-gj8e0id9tsrvippa69fkksed4ifncdl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZhB7FtpjcAJ05K6N2tyX_4iAXYS1DMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220136949675-gj8e0id9tsrvippa69fkksed4ifncdl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
